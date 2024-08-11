@@ -1,0 +1,117 @@
+2024.08.11 18:30:16 INFO  Started: Metals version 1.3.5 in folders 'E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7e6ff87f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7434a52f]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7e6ff87f]
+2024.08.11 18:30:16 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.11 18:30:17 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 18:30:23 INFO  Running List(C:\Users\User\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8)
+2024.08.11 18:30:23 INFO  Attempting to connect to the build server...
+2024.08.11 18:30:23 INFO  Running BSP server List(C:\Users\User\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\.scala-build\ide-options-v2.json, --json-launcher-options, E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\.scala-build\ide-launcher-options.json, --envs-file, E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\.scala-build\ide-envs.json, E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8)
+2024.08.11 18:30:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\.metals\bsp.trace.json or C:\Users\User\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.11 18:30:26 INFO  BSP server: Starting compilation server
+2024.08.11 18:30:30 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 18:30:30 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 18:30:30 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 18:30:33 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 18:30:36 INFO  time: Connected to build server in 12s
+2024.08.11 18:30:36 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.11 18:30:38 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 18:30:38 INFO  no build target found for E:\2nd Year\Semester 1\FC\practicals\session 8\scala-Lab-session-8\q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 18:30:39 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:30:41 INFO  time: Imported build in 4.88s
+2024.08.11 18:30:41 INFO  running doctor check
+2024.08.11 18:30:41 INFO  java targets: scala-Lab-session-8_f4dd477a3a-test, scala-Lab-session-8_f4dd477a3a
+2024.08.11 18:30:45 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.11 18:30:47 INFO  time: indexed workspace in 6.1s
+2024.08.11 18:31:11 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:31:11 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.56s
+2024.08.11 18:31:36 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:31:36 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 59ms
+2024.08.11 18:31:36 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%208/scala-Lab-session-8/q1.scala
+2024.08.11 18:31:38 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:31:38 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 53ms
+2024.08.11 18:31:38 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%208/scala-Lab-session-8/q1.scala
+2024.08.11 18:31:41 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:31:41 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.15s
+2024.08.11 18:31:43 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:31:43 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 72ms
+2024.08.11 18:31:45 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:31:45 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.18s
+2024.08.11 18:31:47 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:31:47 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.16s
+2024.08.11 18:34:21 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%208/scala-Lab-session-8/q1.scala
+2024.08.11 18:34:22 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%208/scala-Lab-session-8/q1.scala
+2024.08.11 18:34:23 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:34:23 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.31s
+Aug 11, 2024 6:34:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.11 18:36:14 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:36:14 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.7s
+2024.08.11 18:36:31 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:36:31 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.22s
+2024.08.11 18:37:17 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:37:17 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.16s
+2024.08.11 18:37:20 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:37:20 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 94ms
+2024.08.11 18:37:23 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:37:23 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.21s
+2024.08.11 18:37:26 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:37:26 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.36s
+2024.08.11 18:38:15 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:38:15 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.2s
+2024.08.11 18:38:58 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:38:58 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.2s
+2024.08.11 18:39:00 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:00 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.27s
+Aug 11, 2024 6:39:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 347
+2024.08.11 18:39:04 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:04 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.25s
+2024.08.11 18:39:08 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:08 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.23s
+2024.08.11 18:39:10 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:10 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.19s
+2024.08.11 18:39:12 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:12 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.16s
+2024.08.11 18:39:14 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:14 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.18s
+2024.08.11 18:39:32 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:32 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.2s
+2024.08.11 18:39:34 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:34 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 76ms
+2024.08.11 18:39:36 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:36 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.14s
+2024.08.11 18:39:39 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:39 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.14s
+2024.08.11 18:39:41 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:41 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.17s
+2024.08.11 18:39:46 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:46 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.17s
+2024.08.11 18:39:51 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:51 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 96ms
+2024.08.11 18:39:53 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:53 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.15s
+2024.08.11 18:39:55 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:55 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.2s
+2024.08.11 18:39:58 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:39:58 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.1s
+2024.08.11 18:40:01 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:40:01 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.16s
+2024.08.11 18:41:10 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%208/scala-Lab-session-8/q1.scala
+2024.08.11 18:41:11 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:41:11 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 48ms
+2024.08.11 18:41:11 WARN  Could not find semantic tokens for: file:///E:/2nd%20Year/Semester%201/FC/practicals/session%208/scala-Lab-session-8/q1.scala
+2024.08.11 18:41:13 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:41:13 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.14s
+2024.08.11 18:58:50 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 18:58:50 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.18s
+2024.08.11 19:01:01 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 19:01:01 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.16s
+2024.08.11 19:01:43 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 19:01:43 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.2s
+2024.08.11 19:01:45 INFO  compiling scala-lab-session-8_f4dd477a3a (1 scala source)
+2024.08.11 19:01:45 INFO  time: compiled scala-Lab-session-8_f4dd477a3a in 0.28s
+Aug 11, 2024 7:04:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

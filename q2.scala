@@ -6,3 +6,14 @@ def categorizeNumber(input: Int): String = {
       case _ => "Not a Multiple of Three or Five"
     }
   }
+
+def main(args: Array[String]): Unit = {
+  
+  println("Please provide exactly one integer as an input.")
+  var input=scala.io.StdIn.readInt()
+
+  var message=categorizeNumber(input)
+  println(message)
+
+
+}

@@ -16,5 +16,5 @@ def decrypt(text: String, shift: Int): String = {
 
 def cipher(text: String, shift: Int, operation: (String, Int) => String): String = {
     operation(text, shift)
-  }
+}
 

@@ -18,3 +18,10 @@ def cipher(text: String, shift: Int, operation: (String, Int) => String): String
     operation(text, shift)
 }
 
+def main(args: Array[String]): Unit = {
+
+  cipher("hello",3,encrypt)
+  
+  cipher("hello",3,decrypt)
+}
+

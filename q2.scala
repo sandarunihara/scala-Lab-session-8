@@ -14,6 +14,5 @@ def main(args: Array[String]): Unit = {
 
   var message=categorizeNumber(input)
   println(message)
-
-
+  
 }
